@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ar!06s11=tb$nm7doyfh$a6rgxt-_t@_kn3)1t2+pu3k14ju%h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['apidjango2.onrender.com']
+ALLOWED_HOSTS = ['apidjango2-1.onrender.com']
 
 CORS_ALLOWED_ORIGINS = ['https://majdmohamad.github.io']
 
