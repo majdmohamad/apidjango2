@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['apidjango2.onrender.com']
 
-CORS_ALLOWED_ORIGINS = True
+CORS_ALLOWED_ORIGINS = ['https://majdmohamad.github.io']
 
 # Application definition
 
